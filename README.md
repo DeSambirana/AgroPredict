@@ -3,7 +3,7 @@
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="200" alt="FastAPI Logo">
   <br><br>
   
-  <h1>🌱 SmartFarm AI</h1>
+  <h1>🌱 AgroPredict </h1>
   <p><b>Sistem Pendukung Keputusan Rekomendasi Tanaman Berbasis Machine Learning & Agroklimat</b></p>
   
   <p>
