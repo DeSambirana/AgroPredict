@@ -88,22 +88,5 @@ Buka browser dan kunjungi: **`http://127.0.0.1:8080`**
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
-
-*(Tambahkan gambar screenshot aplikasi Anda di folder `/docs/img` lalu aktifkan tautan di bawah ini)*
-
-| Halaman Prediksi | Halaman Riwayat |
-| :---: | :---: |
-| `<img src="https://placehold.co/400x250?text=Form+Prediksi" width="400">` | `<img src="https://placehold.co/400x250?text=Tabel+Riwayat" width="400">` |
-
----
-
-## 👥 Pengembang (Kelompok)
-Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Pemrograman Web Framework / Data Mining**.
-
-- **[Nama Anggota 1]** - [NIM 1] *(Backend API & Machine Learning)*
-- **[Nama Anggota 2]** - [NIM 2] *(Frontend Laravel & UI/UX)*
-- **[Nama Anggota 3]** - [NIM 3] *(Database & Laporan)*
-
 ## 📄 Lisensi
 [MIT License](LICENSE) - Bebas digunakan dan dimodifikasi untuk tujuan pembelajaran.
